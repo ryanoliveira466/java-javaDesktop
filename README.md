@@ -28,6 +28,12 @@ Aprender a implementar algoritmos e entender os conceitos fundamentais da progra
 
 [Esquema](esquemaCoresNetBeans.pdf)
 
+## Utilitários
+
+[Livro](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ia601403.us.archive.org/32/items/deitel-java-como-programar-6a-edicao-br-completo/Paul%2520Deitel%252C%2520Harvey%2520Deitel%2520-%2520Java%2520como%2520Programar%2520-%252010%25C2%25B0%2520Edi%25C3%25A7%25C3%25A3o.pdf&ved=2ahUKEwjl1u6_2LeFAxVxK7kGHejbBigQFnoECBMQAQ&usg=AOvVaw1xw1X6OpV8WWlVgoq4KxEk)
+
+[Java Doc](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)
+
 
 
 
