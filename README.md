@@ -1,6 +1,6 @@
 # Java desktop introdução
 
-Este repositório contém atividades de prática sobre algoritmos e lógica de programação utilizando Java.
+Este repositório contém atividades de prática sobre algoritmos e lógica de programação utilizando Java para desktop.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="200" />
 
