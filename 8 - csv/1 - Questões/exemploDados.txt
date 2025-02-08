@@ -1,0 +1,20 @@
+
+        Veiculo novoItem = new Veiculo("Fiat", "Palio", "2018", "Gas / Alcool");
+        Veiculo item2 = new Veiculo("VW", "GOL", "2011", "Gas / Alcool");
+        Veiculo item3 = new Veiculo("Ford", "Edge", "2015", "Gas / Alcool");
+        Veiculo item4 = new Veiculo("Mercedes", "Compressor", "2024", "Gas");
+        Veiculo item5 = new Veiculo("Rolls Royce", "Classic", "2025", "Gas");
+        Veiculo item6 = new Veiculo("McLaren", "Senna", "2025", "Gas");
+        
+        CadastroVeiculo oper = new CadastroVeiculo();
+        
+        oper.inserirItensArray(novoItem);
+        oper.inserirItensArray(item2);
+        oper.inserirItensArray(item3);
+        oper.inserirItensArray(item4);
+        oper.inserirItensArray(item5);
+        oper.inserirItensArray(item6);
+        
+        oper.listarTodosItens();
+
+        oper.enviarDadosGravacaoCSV();
