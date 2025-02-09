@@ -14,6 +14,7 @@ O desenvolvimento será baseado nos seguintes conceitos do Java Swing:
 - **Eventos de Foco (FocusGained e FocusLost)** para melhorar a interação com os campos de texto.  
 - **Eventos de Mouse (MouseClicked e MouseExited)** para tornar a interface mais dinâmica.  
 - **JProgressBar** para indicar a força da senha no cadastro.  
+- **CSV** para salvar os dados.
 
 ## **Objetivos do Projeto**  
 - Criar uma **tela de login** funcional.  
