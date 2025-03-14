@@ -8,7 +8,7 @@ O **JPasswordField** é um componente do Java Swing usado para capturar senhas d
 - Pode definir um tamanho máximo de caracteres.  
 - Possui métodos para recuperar e manipular a senha de forma segura.  
 
-🔹 **Dica de Segurança:** Nunca use `getText()` para recuperar a senha, pois isso pode comprometer a segurança. Em vez disso, utilize `getPassword()`, que retorna um array de caracteres e evita exposição na memória.  
+ **Dica de Segurança:** Nunca use `getText()` para recuperar a senha, pois isso pode comprometer a segurança. Em vez disso, utilize `getPassword()`, que retorna um array de caracteres e evita exposição na memória.  
 
 ---
 
