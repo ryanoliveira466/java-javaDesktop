@@ -1,10 +1,10 @@
-# 🔁 Estruturas de Repetição: `for` em Java
+# Estruturas de Repetição: `for` em Java
 
 O `for` é uma estrutura de repetição em Java que permite executar um bloco de código um número determinado de vezes. Ele é muito útil quando sabemos exatamente quantas vezes queremos repetir a execução.
 
 ---
 
-## 📌 **Sintaxe do `for`**
+##  **Sintaxe do `for`**
 ```java
 for (inicialização; condição; incremento/decremento) {
     // Código a ser repetido
@@ -18,7 +18,7 @@ for (inicialização; condição; incremento/decremento) {
 
 ---
 
-## 📌 **Exemplo 1: Contando de 1 a 5**
+##  **Exemplo 1: Contando de 1 a 5**
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -39,14 +39,14 @@ Número: 5
 
 ---
 
-## 📌 **Exemplo 2: Loop de decremento**
+##  **Exemplo 2: Loop de decremento**
 ```java
 public class Main {
     public static void main(String[] args) {
         for (int i = 5; i > 0; i--) {
             System.out.println("Contagem regressiva: " + i);
         }
-        System.out.println("Fogo! 🚀");
+        System.out.println("Fogo!");
     }
 }
 ```
@@ -62,7 +62,7 @@ Fogo! 🚀
 
 ---
 
-## 📌 **Exemplo 3: Percorrendo um Array com `for`**
+##  **Exemplo 3: Percorrendo um Array com `for`**
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -84,7 +84,7 @@ Fruta: Laranja
 
 ---
 
-## 📌 **Exemplo 4: `for-each` (Para percorrer coleções)**
+##  **Exemplo 4: `for-each` (Para percorrer coleções)**
 O `for-each` simplifica a iteração sobre arrays e coleções.
 
 ```java
@@ -105,14 +105,14 @@ Número: 20
 Número: 30
 Número: 40
 ```
-✅ **Vantagens do `for-each`**:
+ **Vantagens do `for-each`**:
 - Evita erros com índices.
 - Código mais limpo e legível.
 - Útil para listas e arrays.
 
 ---
 
-## 📌 **Exemplo 5: `for` aninhado (Loop dentro de outro loop)**
+##  **Exemplo 5: `for` aninhado (Loop dentro de outro loop)**
 ```java
 public class Main {
     public static void main(String[] args) {
@@ -131,12 +131,12 @@ public class Main {
 2,1  2,2  2,3  
 3,1  3,2  3,3  
 ```
-🚀 **Uso comum:** Matrizes e tabelas.
+ **Uso comum:** Matrizes e tabelas.
 
 ---
 
-## 📌 **Cuidados ao usar `for`**
-⚠️ **Evite loops infinitos!**  
+##  **Cuidados ao usar `for`**
+ **Evite loops infinitos!**  
 Se a condição nunca for falsa, o loop rodará para sempre, travando o programa.
 
 ```java
@@ -147,7 +147,7 @@ for (int i = 1; i > 0; i++) {  // Condição nunca será falsa!
 
 ---
 
-## 📌 **Conclusão**
+##  **Conclusão**
 O `for` é uma estrutura poderosa em Java, ideal para repetir blocos de código de maneira eficiente. Seja para contar números, percorrer arrays ou lidar com coleções, ele é essencial para qualquer desenvolvedor Java.
 
-🔥 **Agora que você domina o `for`, pratique criando seus próprios loops!** 🚀
+ **Agora que você domina o `for`, pratique criando seus próprios loops!** 🚀
