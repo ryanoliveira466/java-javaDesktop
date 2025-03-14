@@ -1,10 +1,10 @@
-# 📌 Método `split()` em Java
+#  Método `split()` em Java
 
 O método `split()` em Java é utilizado para dividir uma `String` em um array de substrings, com base em um delimitador específico.
 
 ---
 
-## 📌 **Sintaxe**
+##  **Sintaxe**
 ```java
 public String[] split(String regex)
 public String[] split(String regex, int limit)
@@ -16,7 +16,7 @@ public String[] split(String regex, int limit)
 
 ---
 
-## 📌 **Exemplos de Uso**
+##  **Exemplos de Uso**
 
 ### **Exemplo 1: Dividindo uma string com espaço**
 ```java
@@ -81,11 +81,11 @@ public class Main {
 João
 Maria-Pedro-Ana
 ```
-🔹 O primeiro elemento contém `"João"`, e o segundo contém o restante da string, pois o limite foi definido como `2`.
+ O primeiro elemento contém `"João"`, e o segundo contém o restante da string, pois o limite foi definido como `2`.
 
 ---
 
-## 📌 **Cuidados ao Usar `split()`**
+##  **Cuidados ao Usar `split()`**
 1. **Expressões regulares** → O delimitador passado para `split()` é uma **expressão regular**. Por exemplo, para dividir por ponto `"."`, é necessário escapar (`\\.`):
    ```java
    String ip = "192.168.0.1";
@@ -98,7 +98,7 @@ Maria-Pedro-Ana
 
 ---
 
-## 📌 **Conclusão**
+##  **Conclusão**
 O método `split()` é uma ferramenta poderosa para manipulação de `String` em Java. Ele permite separar textos com base em delimitadores, podendo utilizar expressões regulares e definir limites para o número de divisões.
 
-🚀 **Agora você pode usar o `split()` para trabalhar com strings de forma eficiente!**
+**Agora você pode usar o `split()` para trabalhar com strings de forma eficiente!🚀**
