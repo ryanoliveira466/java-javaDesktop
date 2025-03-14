@@ -35,7 +35,7 @@ Escreva um algoritmo que leia um valor de temperatura em Fahrenheit informado pe
 
 ## 4. Estruturas Condicionais
 
-## Descrição
+### Descrição
 Implemente um programa que, ao receber as informações de consumo de combustível (em litros) e distância percorrida por um automóvel, faça a classificação de acordo com a tabela abaixo:
 
 ### Classificação:
