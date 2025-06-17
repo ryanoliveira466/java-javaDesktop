@@ -175,8 +175,6 @@ public class Main {
 
 # Interfaces
 
-Claro! Aqui vai um **resumo direto e prático** sobre **interfaces** em Java, incluindo **métodos** e **métodos `default`**:
-
 ---
 
 ## 📘 **O que é uma Interface em Java?**
